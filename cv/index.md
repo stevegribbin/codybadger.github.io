@@ -4,7 +4,7 @@ title: CV
 ---
 # {{ page.title }}
 
-# Cody C. Badger
+<center><h1>Cody C. Badger</h1></center>
 (831) 359 – 9889 ▪ 48 Cumberland St. San Francisco, CA 94110 ▪ cbadger@ucla.edu
 
 # Development
