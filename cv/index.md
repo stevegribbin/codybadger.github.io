@@ -1,5 +1,5 @@
 ---
-layout: cv-screen
+layout: default
 title: CV
 ---
 # {{ page.title }}
