@@ -4,9 +4,9 @@ title: CV
 ---
 # {{ page.title }}
 
-I currently work at [Brewbot](http://www.brewbot.io).
+I currently work at [Brewbot](http://www.brewbot.io) as the lead mechanical engineer.
 
-<p>I used to work at <a href="http://www.teslamotors.com" target="_blank">Tesla</a>, <a href="http://www.CNH.com" target="_blank">CNH</a>, <a href="http://www.zeromotorcycles.com" target="_blank">Zero Motorcycles</a>, and <a href="http://www.modularscience.com" target="_blank">Modular Science</a>.</p>
+I used to work at [Tesla](http://www.teslamotors.com), [CNH](http://www.CNH.com), [Zero Motorcycles](http://www.zeromotorcycles.com), and [Modular Science](http://www.modularscience.com).
 
 I built a house once.
 
