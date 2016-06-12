@@ -7,10 +7,12 @@ title: About Me
 
 My name is Cody.
 
-# Photos
+# Brewing
 
-Here is a gallery.
+# Travel
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/codybadger/albums/72157625779358925" title="Retouching Examples"><img src="https://c4.staticflickr.com/6/5052/5387580595_496982bc4f_z.jpg" width="640" height="461" alt="Retouching Examples"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+I've got an old [travel blog](http://codybadgertravel.blogspot.com/) that I haven't updated in years. Maybe one day, I'll port it over to this site. Here is a gallery of some photos I've taken.
 
-They're old pictures.
+<center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/codybadger/albums/72157622818168699" title="Photography"><img src="https://c2.staticflickr.com/3/2553/4163636409_09ffa7c739_b.jpg" width="1024" height="685" alt="Photography"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
+
+# Projects
