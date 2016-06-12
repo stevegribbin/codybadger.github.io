@@ -21,9 +21,11 @@ title: CV
 * As the lead hardware engineer at Brewbot, I oversee mechanical and electronic research, development, and design.
 * As an experienced brewer, I help train employees in the craft of brewing, and manage all test brew data and analysis.
 
-## [Modular Science](http://www.modularscience.com), San Francisco, CA March 2014 – May 2015
+## Mechanical Engineer @ [Modular Science](http://www.modularscience.com)
 
-### Mechanical Engineer – *Supervisor: Peter Sand (Founder)*
+### San Francisco, CA March 2014 – May 2015
+
+### *Supervisor: Peter Sand (Founder)*
 
 * Modular Science is an early stage start-up developing hardware and software for bio-lab procedure automation, focusing on modular, hackable, well-documented systems so that modifications can be made for custom experiments.
 * Primarily focused on hardware design, assembly, and testing of the main body of the system, as well as basic robotic modules to perform pipette, centrifuge, vial movement, vial grasping, incubator and other various lab operations.
