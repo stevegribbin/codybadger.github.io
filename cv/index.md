@@ -5,7 +5,7 @@ title: CV
 # {{ page.title }}
 
 <center><h1 class="header">Cody C. Badger</h1></center>
-<center><h4>(831) 359 – 9889 ▪ 48 Cumberland St. San Francisco, CA 94110 ▪ cbadger@ucla.edu</h4></center>
+<center><h5>(831) 359 – 9889 ▪ 48 Cumberland St. San Francisco, CA 94110 ▪ cbadger@ucla.edu</h5></center>
 
 ---
 
@@ -15,7 +15,7 @@ title: CV
 
 ### Belfast, Northern Ireland, June 2015 - Present
 
-### Supervisor: *[Sam Khamis](https://www.linkedin.com/in/samuel-khamis-3096688), CTO*
+#### Supervisor: *[Sam Khamis](https://www.linkedin.com/in/samuel-khamis-3096688), CTO*
 
 * We've developed the hardware and software to run a fully automated and highly repeatable brew from a phone, giving way for the world's first distributed brewery.
 * As the lead hardware engineer at Brewbot, I oversee mechanical and electronic research, development, and design.
@@ -25,7 +25,7 @@ title: CV
 
 ### San Francisco, CA March 2014 – May 2015
 
-### *Supervisor: Peter Sand (Founder)*
+#### Supervisor: *Peter Sand (Founder)*
 
 * Modular Science is an early stage start-up developing hardware and software for bio-lab procedure automation, focusing on modular, hackable, well-documented systems so that modifications can be made for custom experiments.
 * Primarily focused on hardware design, assembly, and testing of the main body of the system, as well as basic robotic modules to perform pipette, centrifuge, vial movement, vial grasping, incubator and other various lab operations.
