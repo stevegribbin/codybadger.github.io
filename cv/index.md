@@ -42,11 +42,11 @@ title: My CV
 * Test data analysis and weekly reporting to all other engineering teams in the company. End of test reporting.
 * Other tests: underbody (battery) abuse, airbag controller vibration reduction effort, test track construction.
 
-## Construction Equipment Product Validation (Test) Engineer II @ [CNH America LLC](http://www.CNH.com)
+## Product Validation Test Engineer II @ [CNH America LLC](http://www.CNH.com)
 
 ### Burr Ridge, IL, August 2011 – October 2012
 
-#### – Supervisor: *[James Robertson](https://www.linkedin.com/in/bea-and-jim-robertson-70a1202a), Manager, Worldwide Stress Test*
+#### Supervisor: *[James Robertson](https://www.linkedin.com/in/bea-and-jim-robertson-70a1202a), Manager, Worldwide Stress Test*
 
 * CNH (Case / New Holland) is a global leader in agricultural and construction equipment, owned by Fiat.
 * Design & setup of structural, drive train, and vibration tests utilizing accelerometers, load cells, pressure transducers, strain gauges, thermocouples, speed sensors, data acquisition systems, etc.
@@ -63,7 +63,7 @@ title: My CV
 * Created engineering drawings, revision updates, engineering change orders, bills of materials, purchasing orders.
 * Assembled electric motorcycles on the production floor: wrenching, warehousing, machining, following MPs, etc.
 
-## Water Pump System Design and Implementation Team @ [Engineers Without Borders, SF Professionals](http://ewb-sfp.org/)
+## Design and Implementation Engineer @ [Engineers Without Borders, SF Professionals](http://ewb-sfp.org/)
 
 ### San Francisco & El Salvador, 2009 – 2011, 2014
 
