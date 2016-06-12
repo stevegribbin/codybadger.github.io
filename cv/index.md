@@ -2,7 +2,7 @@
 layout: default
 title: CV
 ---
-	<h1>{{ page.title }}</h1>
+# {{ page.title }}
  	<p>I currently work at <a href="http://www.brewbot.io" target="_blank">Brewbot</a>.</p>
 	<p>I used to work at <a href="http://www.teslamotors.com" target="_blank">Tesla</a>, <a href="http://www.CNH.com" target="_blank">CNH</a>, <a href="http://www.zeromotorcycles.com" target="_blank">Zero Motorcycles</a>, and <a href="http://www.modularscience.com" target="_blank">Modular Science</a>.</p>
 
