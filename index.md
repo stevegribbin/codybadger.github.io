@@ -1,7 +1,6 @@
 ---
 layout: default
+title: Cody Badger
 ---
 
-# This is a test
-
-I want to use [markdown](www.espn.com).
+Hello. You have reached the website of Cody Badger. I want to use [markdown](www.espn.com).
