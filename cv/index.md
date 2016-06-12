@@ -9,6 +9,8 @@ title: CV
 
 ---
 
+<div class="cv">
+
 # Development
 
 ## Lead Hardware Engineer @ [Brewbot](http://www.brewbot.io)
@@ -104,6 +106,7 @@ title: CV
 * Involved in many volunteer projects both at home and abroad: EWB, Habitat, Fairmail, Salvation Army, etc.
 * Avid outdoorsman, fisherman, & backpacker; hiked solo 230 miles in the Sierra Nevada in 18 days.
 
+</div>
 
 I built a house once.
 
