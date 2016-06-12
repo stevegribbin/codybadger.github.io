@@ -2,8 +2,10 @@
 layout: default
 title: About Me
 ---
-	<h1>{{ page.title }}</h1>
-	<p>My name is Cody.</p>
+
+# {{ page.title }}
+
+My name is Cody.
 
 # Photos
 
