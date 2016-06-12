@@ -17,7 +17,8 @@ title: My CV
 #### Supervisor: *[Sam Khamis](https://www.linkedin.com/in/samuel-khamis-3096688), CTO*
 
 * We've developed the hardware and software to run a fully automated and highly repeatable brew from a phone, giving way for the world's first distributed brewery.
-* As the lead hardware engineer at Brewbot, I oversee mechanical and electronic research, development, and design.
+* As the lead hardware engineer at Brewbot, I oversee mechanical and electronic research, development, and design. I ensure that milestones are set and met, and that issues are resolved in a timely manner.
+* I manage our information and documentation repository.
 * As an experienced brewer, I help train employees in the craft of brewing, and manage all test brew data and analysis.
 
 ## Mechanical Engineer @ [Modular Science](http://www.modularscience.com)
