@@ -10,6 +10,7 @@ title: CV
 # Development
 
 ## [Brewbot](http://www.brewbot.io), Belfast (Northern Ireland), June 2015 - Present
+
 ### Lead Hardware Engineer - Supervisor: *[Sam Khamis](https://www.linkedin.com/in/samuel-khamis-3096688), CTO*
 * We've developed the hardware and software to run a fully automated and highly repeatable brew from a phone, giving way for the world's first distributed brewery.
 * As the lead hardware engineer at Brewbot, I oversee mechanical and electronic research, development, and design.
