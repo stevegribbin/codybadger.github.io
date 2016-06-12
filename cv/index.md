@@ -11,15 +11,17 @@ title: CV
 
 # Development
 
-## [Brewbot](http://www.brewbot.io), Belfast (Northern Ireland), June 2015 - Present
+## Lead Hardware Engineer @ [Brewbot](http://www.brewbot.io)
 
-### Lead Hardware Engineer - Supervisor: *[Sam Khamis](https://www.linkedin.com/in/samuel-khamis-3096688), CTO*
+### Belfast, Northern Ireland, June 2015 - Present
+
+### Supervisor: *[Sam Khamis](https://www.linkedin.com/in/samuel-khamis-3096688), CTO*
 
 * We've developed the hardware and software to run a fully automated and highly repeatable brew from a phone, giving way for the world's first distributed brewery.
 * As the lead hardware engineer at Brewbot, I oversee mechanical and electronic research, development, and design.
 * As an experienced brewer, I help train employees in the craft of brewing, and manage all test brew data and analysis.
 
-## [Modular Science](http://www.modularscience.com), San Francisco, CA Mar 2014 – Current
+## [Modular Science](http://www.modularscience.com), San Francisco, CA March 2014 – May 2015
 
 ### Mechanical Engineer – *Supervisor: Peter Sand (Founder)*
 
@@ -70,13 +72,17 @@ title: CV
 
 # Education
 
-## M.S. Mechanical Engineering, UCLA, 2008
+## M.S. Mechanical Engineering
+
+### UCLA, 2008
 
 * Design & Manufacturing and Fluids & Thermal Concentrations
 * Engineer-in-Training Certified (2010)
 * Engineering GPA: 3.50
 
-## B.S. Mechanical Engineering, UCLA, 2006
+## B.S. Mechanical Engineering
+
+### UCLA, 2006
 
 * Engineering GPA: 3.53
 
