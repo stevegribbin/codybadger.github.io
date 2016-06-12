@@ -1,8 +1,7 @@
 ---
 layout: default
-title: CV
+title: My CV
 ---
-# {{ page.title }}
 
 <center><h1 class="header">Cody C. Badger</h1></center>
 <center><h5>(831) 359 – 9889 ▪ 48 Cumberland St. San Francisco, CA 94110 ▪ cbadger@ucla.edu</h5></center>
@@ -22,9 +21,7 @@ title: CV
 * As an experienced brewer, I help train employees in the craft of brewing, and manage all test brew data and analysis.
 
 ## Mechanical Engineer @ [Modular Science](http://www.modularscience.com)
-
 ### San Francisco, CA March 2014 – May 2015
-
 #### Supervisor: *Peter Sand (Founder)*
 
 * Modular Science is an early stage start-up developing hardware and software for bio-lab procedure automation, focusing on modular, hackable, well-documented systems so that modifications can be made for custom experiments.
