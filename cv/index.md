@@ -73,7 +73,9 @@ title: My CV
 * Resident El Salvador project implementation leader. Two extended stays at site to oversee completion of project.
 * Worked with Salvadorian local governments and engineers while coordinating with EWB members in SF.
 
-## Founder @ [Supermileage Vehicle Team](http://uclaracing.org/supermileage/) 2004 – 2006
+## Founder @ [Supermileage Vehicle Team](http://uclaracing.org/supermileage/)
+
+### Los Angeles, 2004 – 2006
 
 * An SAE sponsored intercollegiate competition focused on optimal fuel efficiency of a gas powered vehicle.
 * Founding member with six others of the UCLA Supermileage Vehicle Team. Achieved 824 mpg.
