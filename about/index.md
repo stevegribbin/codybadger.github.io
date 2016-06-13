@@ -15,12 +15,9 @@ I have a lot of hobbies. Playing sports and skiing are my favorite pastimes. I a
 
 I'm 33, have 2 sisters, and pretty big extended family. On personal level, I value honesty, kindness, and intimacy. I try to incorporate these values within my friendly, familial, professional, romantic, and canine relationships, because I believe that time well spent in good company is as good as it gets.
 
-# Brewing
-
 # Travel
 
 I've got an old [travel blog](http://codybadgertravel.blogspot.com/) that I haven't updated in years. Maybe one day, I'll port it over to this site. Here is a gallery of some photos I've taken.
 
 <center><a data-flickr-embed="true"  href="https://www.flickr.com/photos/codybadger/albums/72157622818168699" title="Photography"><img src="https://c2.staticflickr.com/3/2553/4163636409_09ffa7c739_b.jpg" width="1024" height="685" alt="Photography"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></center>
 
-# Projects
