@@ -7,7 +7,7 @@ title: Connect
 
 The internet is a large place.
 
-<a href="mailto:c@codycardbadger.com"><img src="http://www.aimamusic.it/wp-content/uploads/2012/10/email_us_button.png" alt="E-mail" style="width:400px;" /></a>
+<a href="mailto:c@codycardbadger.com"><img src="http://www.aimamusic.it/wp-content/uploads/2012/10/email_us_button.png" alt="E-mail" style="width:200px;" /></a>
 
 <a href="https://www.linkedin.com/pub/cody-badger/4/158/11b"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Cody Badger's profile on LinkedIn"></a>
 
