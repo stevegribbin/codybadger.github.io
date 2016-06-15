@@ -18,3 +18,7 @@ title: Connect
 <a href="http://www.flickr.com/photos/codybadger/" title="See my photos on Flickr!"><img src="https://s.yimg.com/pw/images/goodies/white-flickr.png" width="56" height="26" alt=""></a>
 
 <iframe src="https://embed.spotify.com/follow/1/?uri=spotify:artist:1vCWHaC5f2uS3yhpwWbIA6&size=basic&theme=light&show-count=0" width="200" height="25" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+
+<script src="https://apis.google.com/js/platform.js"></script>
+<div class="g-ytsubscribe" data-channel="CodyBadger" data-layout="default" data-count="hidden"></div>
+
