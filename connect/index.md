@@ -1,6 +1,6 @@
 ---
 layout: default
-title: connect
+title: Connect
 ---
 
 # {{ page.title }}
