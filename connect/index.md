@@ -5,7 +5,7 @@ title: Connect
 
 # {{ page.title }}
 
-* [E-mail](mailto:c@codycardbadger.com)
+## [E-mail](mailto:c@codycardbadger.com)
 
 <a href="https://www.linkedin.com/pub/cody-badger/4/158/11b"><img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_profile_bluetxt_80x15.png" width="80" height="15" border="0" alt="View Cody Badger's profile on LinkedIn"></a>
 
