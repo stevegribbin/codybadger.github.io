@@ -4,7 +4,8 @@ title: My CV
 ---
 
 <center><h1 class="header">Cody C. Badger</h1></center>
-<center><h5>(831) 359 – 9889 ▪ 48 Cumberland St. San Francisco, CA 94110 ▪ cbadger@ucla.edu</h5></center>
+<center><h5>(415) 409 - 9362 • 48 Cumberland St. San Francisco, CA 94110</h5></center>
+<center><h5>cbadger@ucla.edu • <a href="codycardbadger.com">codycardbadger.com</a></h5></center>
 
 ---
 
