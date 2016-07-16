@@ -17,7 +17,7 @@ title: My CV
 
 #### Supervisor: *[Sam Khamis](https://www.linkedin.com/in/samuel-khamis-3096688), CTO*
 
-* We've developed the hardware and software to run a fully automated and highly repeatable brew from a phone, giving way for the world's first distributed brewery.
+* We've developed the hardware and software to run a fully automated and highly repeatable brew from a smartphone, giving way for the world's first distributed brewery.
 * As the lead hardware engineer at Brewbot, I oversee mechanical and electronic research, development, and design. I ensure that milestones are set and met, and that issues are resolved in a timely manner.
 * I manage our information and documentation repository.
 * As an experienced brewer, I help train employees in the craft of brewing, and manage all test brew data and analysis.
@@ -61,8 +61,8 @@ title: My CV
 
 #### Supervisor: *[Derek Yuen](https://www.linkedin.com/in/derek-yuen-13083411), Director of Mechanical Engineering*
 
-* Primarily involved with engineering, SolidWorks CAD design, prototyping, and testing of the 2012 lineup.
-* Created engineering drawings, revision updates, engineering change orders, bills of materials, purchasing orders.
+* Primarily involved in SolidWorks CAD design, prototyping, and testing of the 2012 lineup.
+* Created new parts, engineering drawings, revision updates, engineering change orders, BOMs, purchasing orders.
 * Assembled electric motorcycles on the production floor: wrenching, warehousing, machining, following MPs, etc.
 
 ## Design and Implementation Engineer @ [Engineers Without Borders, SF Professionals](http://ewb-sfp.org/)
@@ -101,20 +101,19 @@ title: My CV
 
 # Technical and Applied Skills
 
-* Test Equipment: Somat eDAQ, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
+* Test Equipment: Somat eDAQ & eDAQ Lite, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
 * CAD: Solidworks 2010, AutoCAD, Rhinoceros (Architectural), SketchUp, Adobe Illustrator
 * Programming: MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown, Git
 * Advanced skills in wood, metal, and automotive shops. Projects include: furniture, houses, motors, and bicycles.
-* Heavy machinery experience; M1 license; Previously, CDL Class B *P for driving a bus.
+* Heavy machinery experience: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator
+* CA M1 license
+* Previously held CDL Class B *P for driving a bus.
 
 # Personal Interests
 
-* Fluent in Spanish after living in Spain, Argentina, El Salvador, & Perú, for 3 years. Conversational in Portuguese.
-* Teaching experience: Lab instructor in grad school, pre-algebra summer session for 8th graders, photography teacher.
+* Fluent in Spanish after living in Spain, Argentina, El Salvador, & Perú, for 3 years.
+* Conversational in Portuguese.
+* Teaching experience: Lab instructor in grad school, 8th grade pre-algebra summer session for, photography teacher.
 * Played 4 years of collegiate level Ultimate Frisbee for the UCLA Men’s team and passionate about other sports.
-* Involved in many volunteer projects both at home and abroad: EWB, Habitat, Fairmail, Salvation Army, etc.
+* Involved in many volunteer projects both at home and abroad: Engineers Without Borders, Habitat for Humanity, Fairmail, Salvation Army, etc.
 * Avid outdoorsman, fisherman, & backpacker; hiked solo 230 miles in the Sierra Nevada in 18 days.
-
-I built a house once.
-
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/WWfQMmbPybI?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></center>
