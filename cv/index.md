@@ -19,7 +19,7 @@ title: My CV
 
 * We've developed the hardware and software to run a fully automated and highly repeatable brew from a smartphone, giving way for the world's first distributed brewery.
 * Oversee mechanical and electronic research, development, and design. I ensure that milestones are set and met, and that issues are resolved in a timely manner.
-* Ensure hardware sensors will interface properly with the electronic and software requirements.
+* Ensure hardware sensors interface properly with the electronic and software requirements.
 * Manage information and documentation repository.
 * Train employees in the craft of brewing, and manage all test brew data and analysis.
 
