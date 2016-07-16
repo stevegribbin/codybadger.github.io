@@ -18,9 +18,10 @@ title: My CV
 #### Supervisor: *[Sam Khamis](https://www.linkedin.com/in/samuel-khamis-3096688), CTO*
 
 * We've developed the hardware and software to run a fully automated and highly repeatable brew from a smartphone, giving way for the world's first distributed brewery.
-* As the lead hardware engineer at Brewbot, I oversee mechanical and electronic research, development, and design. I ensure that milestones are set and met, and that issues are resolved in a timely manner.
-* I manage our information and documentation repository.
-* As an experienced brewer, I help train employees in the craft of brewing, and manage all test brew data and analysis.
+* Oversee mechanical and electronic research, development, and design. I ensure that milestones are set and met, and that issues are resolved in a timely manner.
+* Ensure hardware sensors will interface properly with the electronic and software requirements.
+* Manage information and documentation repository.
+* Train employees in the craft of brewing, and manage all test brew data and analysis.
 
 ## Mechanical Engineer @ [Modular Science](http://www.modularscience.com)
 
@@ -101,13 +102,13 @@ title: My CV
 
 # Technical and Applied Skills
 
-* Test Equipment: Somat eDAQ & eDAQ Lite, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
-* CAD: Solidworks 2010, AutoCAD, Rhinoceros (Architectural), SketchUp, Adobe Illustrator
-* Programming: MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown, Git
-* Advanced skills in wood, metal, and automotive shops. Projects include: furniture, houses, motors, and bicycles.
-* Heavy machinery experience: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator
-* CA M1 license
-* Previously held CDL Class B *P for driving a bus.
+* **Test Equipment**: Somat eDAQ & eDAQ Lite, Head Acoustics Squadriga & DataRec4, VBOX, Memorator
+* **CAD**: Solidworks 2004, 2010, 2015, & 2016, AutoCAD, Rhinoceros, SketchUp, Adobe Illustrator
+* **Programming**: MATLAB, Fortran 90, C, Ruby, Python, HTML, Markdown, Git
+* **Fabricating**: Advanced skills in wood, metal, and automotive shops. Projects include: furniture, houses, motors, and bicycles.
+* **Heavy machinery experience**: Loader-backhoe, skid steer, bulldozer, wheel loader, excavator
+* CA Class C & M1 drivers license
+* Previously held CDL Class B -P for driving a passenger bus.
 
 # Personal Interests
 
